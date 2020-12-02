@@ -1,5 +1,5 @@
 # ngrok-sohbet
-Ngrok İle İsimsiz Sohbet
+Ngrok İle İsimsiz Sohbet.
 Baglanan.py Dosyasını Karşı Tarafta Olması Gerek.
 Sohbet-baslatici.py Sohbet'i Başlatıcak Kişide Olması Gerek.
 Fuul ANONİM SOHBET.
