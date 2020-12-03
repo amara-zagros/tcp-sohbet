@@ -38,7 +38,7 @@ soket.bind((host,port))
 kackisi = int(input("En fazla kaç kişi bağlanacak>> "))
 soket.listen(kackisi)
 c,addr = soket.accept()
-c.sendall(bytes("Hos gelmissin!".encode("utf-8")))
+c.sendall(bytes("Hos gelmissin! Burada Kurallar Ilk Ben Yazarim Sonra Sen Yazarsin. Baglanti Koparsa Tekrar Baglan.....".encode("utf-8")))
 print("{} bağlandı.".format(addr))
 while(True):
     data = str(c.recv(1024))[1:]
