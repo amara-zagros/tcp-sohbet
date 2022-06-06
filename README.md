@@ -1,4 +1,4 @@
-# ngrok-sohbet
+#tcp-sohbet
 Ngrok İle İsimsiz Sohbet.
 
 Baglanan.py Dosyasını Karşı Tarafta Olması Gerek.
